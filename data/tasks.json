@@ -1,0 +1,66 @@
+{
+  "tasks": [
+    {
+      "id": 101,
+      "title": "Разработать API для авторизации",
+      "description": "Создать REST API на FastAPI с JWT",
+      "required_skills": [
+        "Python",
+        "FastAPI",
+        "SQL"
+      ],
+      "estimated_hours": 10,
+      "priority": 5,
+      "deadline": "2026-05-20"
+    },
+    {
+      "id": 102,
+      "title": "Настроить CI/CD пайплайн",
+      "description": "Настроить GitHub Actions и Docker",
+      "required_skills": [
+        "Docker",
+        "Python"
+      ],
+      "estimated_hours": 6,
+      "priority": 4,
+      "deadline": "2026-05-18"
+    },
+    {
+      "id": 103,
+      "title": "Разработать компонент таблицы",
+      "description": "React компонент для отображения данных",
+      "required_skills": [
+        "React",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "estimated_hours": 8,
+      "priority": 3,
+      "deadline": "2026-05-22"
+    },
+    {
+      "id": 104,
+      "title": "Написать автотесты для API",
+      "description": "Покрыть API тестами на pytest",
+      "required_skills": [
+        "Python",
+        "Manual testing"
+      ],
+      "estimated_hours": 5,
+      "priority": 4,
+      "deadline": "2026-05-19"
+    },
+    {
+      "id": 105,
+      "title": "Проанализировать метрики",
+      "description": "Собрать и визуализировать метрики",
+      "required_skills": [
+        "SQL",
+        "Data Analysis"
+      ],
+      "estimated_hours": 7,
+      "priority": 3,
+      "deadline": "2026-05-21"
+    }
+  ]
+}

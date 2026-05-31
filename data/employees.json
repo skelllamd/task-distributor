@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Анна",
+      "role": "Backend-разработчик",
+      "grade": "Middle",
+      "skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "FastAPI"
+      ],
+      "available_hours": 35,
+      "max_hours": 40
+    },
+    {
+      "id": 2,
+      "name": "Иван",
+      "role": "Backend-разработчик",
+      "grade": "Senior",
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Kafka",
+        "Docker"
+      ],
+      "available_hours": 20,
+      "max_hours": 40
+    },
+    {
+      "id": 3,
+      "name": "Мария",
+      "role": "Frontend-разработчик",
+      "grade": "Middle",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "CSS"
+      ],
+      "available_hours": 38,
+      "max_hours": 40
+    },
+    {
+      "id": 4,
+      "name": "Олег",
+      "role": "QA-инженер",
+      "grade": "Junior",
+      "skills": [
+        "Manual testing",
+        "Python",
+        "Selenium"
+      ],
+      "available_hours": 30,
+      "max_hours": 38
+    },
+    {
+      "id": 5,
+      "name": "Екатерина",
+      "role": "Аналитик",
+      "grade": "Middle",
+      "skills": [
+        "SQL",
+        "Python",
+        "Data Analysis",
+        "Tableau"
+      ],
+      "available_hours": 40,
+      "max_hours": 40
+    }
+  ]
+}
